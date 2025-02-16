@@ -1,0 +1,195 @@
+Summary for figure-100-70.jpg:
+The image shows a line graph illustrating the number of errors found per review hour across 20 projects. The x-axis represents the project number (1 to 19) and the y-axis represents the number of errors found per review hour (ranging from 0 to 6). The line graph fluctuates, indicating variability in error detection rates across the projects. The graph seems to show how the number of errors found/review hour changes over time.
+----------------------------------------
+Summary for figure-101-72.jpg:
+The image presents a control chart displaying "Differences in successive Er values" across 19 "Projects."  The Er values exhibit considerable variation between projects.  A horizontal line, labeled "mR bar," indicates the average moving range.  The Upper Control Limit (UCL) is stated to be 5.57, but the UCL line is "not shown" on the chart.
+----------------------------------------
+Summary for figure-101-73.jpg:
+The image is a control chart tracking the number of errors found per review hour across 20 projects. The y-axis represents "Er, errors found/review hour", ranging from 0 to 6. The x-axis represents "Projects", numbered from 1 to 19. A bold line connects diamond-shaped points, illustrating the error rate for each project. There's a solid horizontal line labeled "Am", likely representing the average error rate. Dashed horizontal lines indicate +1σ and -1σ (standard deviation) from the mean. A note states that the 2σ lines are not shown. The chart visualizes the variability in error detection rates across different projects, with some projects exceeding the +1σ and falling below the -1σ lines.
+
+----------------------------------------
+Summary for figure-116-78.jpg:
+The image depicts an automated sorting system. Items with barcode labels ("ID no.") move along a conveyor belt. The conveyor line motion is indicated with an arrow moving from left to right. As items reach a "Sorting Station", a "Shunt" mechanism, controlled via a "Control Connection", diverts certain items. The sorting process appears to be based on reading the barcodes. A numbered list, starting with "1" and reaching at least "6", is on the right-hand side of the image, though the contents of each numbered item are not shown.
+----------------------------------------
+Summary for figure-118-81.jpg:
+The image is a pyramid diagram divided into three sections. The base of the pyramid is labeled "Hardware/software tools," the middle section is labeled "Reusable software components," and the top of the pyramid is labeled "People." The pyramid likely illustrates a hierarchy or the relative importance of these elements, suggesting that hardware/software tools are fundamental, followed by reusable software, and that people are the most crucial element.
+----------------------------------------
+Summary for figure-134-90.jpg:
+The image presents a decision tree for acquiring "System X." The initial decision branches into four options: "Build," "Reuse," "Buy," and "Contract." Each of these options leads to further branches representing different potential outcomes, each associated with a probability (in parentheses) and a cost (in dollars).
+
+- **Build:** Can be "Simple" (0.30 probability, $380,000 cost) or "Difficult" (0.70 probability, $450,000 cost).
+- **Reuse:** Leads to "Minor changes" (0.40 probability, $275,000 cost).
+- **Buy:** Leads to "Major Changes" (0.60 probability) which branches further to "Simple" (0.20 probability, $310,000 cost) or "Complex" (0.80 probability, $490,000 cost).
+- **Contract:** Can result in "Minor changes" (0.70 probability, $210,000 cost) or "Major changes" (0.30 probability, $400,000 cost),  "Without changes" (0.60 probability, $350,000 cost) or "With changes" (0.40 probability, $500,000 cost).
+
+The decision tree is designed to help evaluate the expected costs and risks associated with each method of obtaining System X.
+----------------------------------------
+Summary for figure-149-98.jpg:
+The image is a three-dimensional risk assessment graph. The y-axis represents the "Impact," ranging from "Very low" to "Very high." One of the x-axis represents "Management concern," going from a low to a "High" level of concern. The other x-axis represents the "Probability of occurrence," ranging from 0 to 1.0. The shaded area indicates a region of significant risk, implying that events falling within this zone warrant serious management attention. A small area near the origin is labeled "Disregard risk factor." This area suggests that events with very low probability and impact can be ignored.
+----------------------------------------
+Summary for figure-152-101.jpg:
+Here's a summary of the image's content:
+
+The image is a graph illustrating the relationship between cost and time in a project management context, where time is measured as a 'projected schedule overrun'. The graph has a curve, and the area above and to the right of the curve is shaded in gray, labeled "Project termination will occur", indicating that if a project's cost and schedule overrun exceeds this boundary, the project will be terminated.
+
+A specific "Referent point (cost value, time value)" is marked on the curve. Coordinates of referent point are highlighted with a black lines towards x and y axis. This point likely represents a threshold or target value for both cost and time overrun, and indicates a specific cost and time value which is acceptable.
+
+----------------------------------------
+Summary for figure-84-58.jpg:
+The image depicts a fishbone diagram, also known as an Ishikawa diagram, used for cause-and-effect analysis. The main "effect" or problem being investigated is "Specification defects," which is located at the head (right side) of the diagram.
+
+The "bones" of the diagram represent potential categories of causes contributing to the problem. The categories identified are:
+
+*   "Missing" (information)
+*   "Ambiguous" (information)
+*   "Wrong customer queried"
+*   "Incorrect," with sub-causes being "Customer gave wrong info", "Inadequate inquiries", and "Used outdated info".
+*   "Changes"
+
+The diagram suggests that specification defects might stem from missing or ambiguous requirements, incorrect customer information, incorrect inquiries, outdated info, changes or querying the wrong customer.
+----------------------------------------
+Summary for figure-91-65.jpg:
+The image is a table that compares the number of "Semantic Statements" with the number of "Processing Steps," and then categorizes the relationship as "Low," "Average," or "High."
+
+The rows are labeled by the number of processing steps: 1-10, 11-20, and 21+. The columns are labeled by the number of semantic statements: 1-5, 6-10, and 11+.
+
+The table shows that as the number of semantic statements and/or processing steps increases, the category moves from "Low" to "Average" to "High."
+
+----------------------------------------
+Summary for figure-99-69.jpg:
+The image depicts a process flow diagram for software metrics. It starts with three inputs: "Software engineering process", "Software project", and "Software product". These feed into a "Data collection" stage, which outputs "Measures". These measures are then used in "Metrics computation" to generate "Metrics". Finally, the metrics are used in "Metrics evaluation". There are feedback loops from both "Software product" and "Software engineering process" to "Data collection".
+----------------------------------------
+Summary for figure-12-12.jpg:
+The image is a bar graph illustrating the increasing "Cost to change" as a project progresses, likely in software development or a similar field. The y-axis is labeled "Cost to change," and there are three bars. The first bar is black and labeled "1x," indicating the baseline cost. The second bar is gray and labeled "1.5-6x," showing a modest increase in cost. The third bar is also gray and labeled "60-100x," representing a significantly higher cost to change. This bar has a jagged break in the middle, emphasizing the dramatically increased cost. Overall, the graph demonstrates the principle that changes become much more expensive the later they are implemented in a project's lifecycle.
+----------------------------------------
+Summary for figure-19-15.jpg:
+The image depicts a layered diagram resembling a pyramid or stack of flattened ovals, with each layer representing a different aspect. At the bottom, the widest and darkest layer is labeled "A quality focus." Above that, in progressively lighter shades of gray and smaller sizes, are the layers labeled "Process," "Methods," and finally, at the top, "Tools." The diagram suggests a hierarchical relationship or a foundational structure, where "A quality focus" forms the basis for establishing processes, which then guide the selection and application of methods, and ultimately, the use of tools.
+----------------------------------------
+Summary for figure-22-19.jpg:
+The image presents a visual representation of a "Common process framework." The core elements are organized in nested layers:
+
+1.  **Common process framework:** This is the overarching structure.
+
+2.  **Framework activities:** These are the primary activities that are executed within the framework.
+
+3.  **Task sets:**  These represent a collection of tasks needed to accomplish the goals associated with the framework activity. Specifically mentioned are:
+    *   Tasks
+    *   Milestones, deliverables
+    *   SQA points (Software Quality Assurance)
+
+4.  **Umbrella activities:**  These are the activities that support the framework activities and are at the base.
+
+In essence, the image illustrates a hierarchical model for process execution, breaking down a larger process into smaller, manageable components.
+----------------------------------------
+Summary for figure-25-22.jpg:
+The image depicts a cyclical process diagram. It starts with the "Status quo," which transitions to "Problem definition." From "Problem definition," the process moves to "Technical development," then to "Solution integration," and finally back to the "Status quo," forming a continuous loop. Each step is represented in a white box with bold black outlines, interconnected by curved arrows indicating the direction of the process flow.
+----------------------------------------
+Summary for figure-25-23.jpg:
+The image illustrates a cyclical process originating from a "Status quo" and involving a sequence of phases depicted as boxes connected by arrows. These phases appear to represent problem-solving steps: "problem definition", "technical development", and "solution integration", which then eventually reverts back to the "Status quo". This process repeats in a loop, and the image seems to represent the overall cyclical process of status quo, problem solving, then returning to a new status quo.
+----------------------------------------
+Summary for figure-27-25.jpg:
+The image depicts a sequential process likely related to software or system development.  The process stages, represented in rectangular boxes with drop shadows, are: Analysis, Design, Code, and Test. Arrows connect these boxes, indicating a forward flow. The "Analysis" and "Design" stages are encompassed within a larger, grey oval labeled "System/Information Engineering", suggesting these initial stages are part of the broader engineering process. The "Code" and "Test" phases are outside the oval, still sequential in nature.
+----------------------------------------
+Summary for figure-29-26.jpg:
+The image is a cyclical diagram illustrating a customer feedback loop for product development. It depicts a continuous process with three key stages: "Listen to customer," "Build/revise mock-up," and "Customer test drives mock-up." The gray arrows in a circular shape show that this is a repeating process. The diagram highlights the iterative nature of creating and refining a product based on customer input.
+
+----------------------------------------
+Summary for figure-31-27.jpg:
+The image depicts a cascading diagram showing the sequential steps in software development, starting with business modeling and ending with testing and turnover. It highlights the difference in pace and resource allocation between "Team #1" and "Team #2" for the same development process.
+
+The process includes these stages: Business modeling, Data modeling, Process modeling, Application generation, and Testing & turnover.  Each stage flows downward, indicating dependencies between steps.
+
+The diagram illustrates that Team #1 invests more heavily in the earlier stages (Business modeling, Data modeling, and Process modeling) whereas Team #2 executes these stages faster, probably spending less time on them. Despite the differing paces, both team projects lead to application generation and the final stage of testing and turnover, within a timeframe of 60-90 days.
+The visualization emphasizes how different teams can approach the same development lifecycle with varying resource allocations and speed.
+----------------------------------------
+Summary for figure-33-29.jpg:
+The image illustrates an incremental software development process. It depicts four increments, each following the same sequential steps: Analysis, Design, Code, and Test. The first increment begins within the context of "System/information engineering," encompassing the Analysis and Design phases. Each increment culminates in a delivery. Thus, "Delivery of 1st increment," "Delivery of 2nd increment," "Delivery of 3rd increment," and "Delivery of 4th increment" mark the end of each iterative cycle.
+
+----------------------------------------
+Summary for figure-5-6.jpg:
+The image shows a "bathtub curve", a common representation of the failure rate of a product or system over its lifetime. The y-axis represents the failure rate, and the x-axis is implied to represent time. The curve has three distinct sections:
+
+1.  **"Infant mortality"**: An initially high failure rate that decreases rapidly as early defects are identified and corrected.
+2.  **"Normal life"**: A period with a relatively low and stable failure rate, indicating a healthy operational life.
+3.  **"Wear out"**: A final phase where the failure rate increases again as components age and degrade.
+
+The curve illustrates that failures are more likely to occur early in the product's life (due to manufacturing defects or improper installation) and later as the product ages and wears out.
+----------------------------------------
+Summary for figure-6-9.jpg:
+The image shows a graph illustrating failure rate over time, comparing an "idealized curve" to an "actual curve." The idealized curve shows a constantly decreasing failure rate, while the actual curve decreases at first, then rises sharply in spikes that are labelled "Increased failure rate due to side effects". The curves begin at different points, but at one point they overlap that is labelled "change".
+The graph indicates how changes or side effects can cause a sudden increase in failure rate, deviating from the expected idealized performance.
+----------------------------------------
+Summary for figure-35-32.jpg:
+The image depicts a spiral model diagram, representing a cyclical software development process.  The spiral consists of concentric circles divided into quadrants representing key stages: planning, risk analysis, engineering, construction & release, customer communication, and customer evaluation. A series of connected cubes move outward along the spiral from the project entry point axis, indicating iterative development.  Arrows suggest a cyclical, iterative movement through the different project stages, with each loop addressing risks and refining the product.
+
+----------------------------------------
+Summary for figure-37-35.jpg:
+The image depicts a spiral model illustrating a cyclical process, likely for product or process development. It includes seven key stages:
+
+1.  Identify next-level stakeholders.
+2.  Identify stakeholders' win conditions.
+3a. Reconcile win conditions.
+3b. Establish next-level objectives, constraints, and alternatives.
+4.  Evaluate process and product alternatives and resolve risks.
+5.  Define the next level of product and process, including partitions.
+6.  Validate product and process definitions.
+7.  Review and comment.
+
+The spiral shape suggests an iterative process, with each cycle potentially representing a deeper level of development or refinement. Arrows indicate the direction of the process moving inwards.
+
+----------------------------------------
+Summary for figure-39-36.jpg:
+The image shows a flowchart titled "Analysis Activity" which illustrates the possible states of an analysis. The analysis can start as "None" and then move "Under development". After that the analysis can move to "Awaiting changes" or "Under review". If the analysis is "Awaiting changes", it moves to "Under revision" which can lead to "Under review" again. If the analysis is "Under review" it can move to "Baselined" which then moves to "Done" state. From "Done" it can go back to "Under development" implying a cyclical process of analysis.
+----------------------------------------
+Summary for figure-40-37.jpg:
+The image illustrates a component-based development model, presented in two parts: a spiral diagram and a flowchart.
+
+The spiral diagram depicts an iterative process with concentric circles, moving from customer communication to planning, risk analysis, engineering construction and release, and finally customer evaluation. This suggests a cyclical approach where each phase is revisited and refined.
+
+Connected to the "Risk analysis" phase of the spiral is a flowchart which is an expansion of "Engineering construction & release" and outlines component-based development steps. It starts with "Identify candidate components," then "Look up components in library." If components are available, they are "Extract[ed] components if available"; if not, the system will "Build components if unavailable." After extraction or building, the resulting components are used to "Construct nth iteration of system" and "Put new components in library," feeding back into future iterations of the system.
+
+----------------------------------------
+Summary for figure-51-38.jpg:
+Here's a summary of the image content:
+
+The image appears to be a screen capture of a digital interface, possibly from a mobile app or website. 
+
+*   **Text:** The prominent word "TWO" is displayed at the top, suggesting it might be a label or heading.
+*   **Visual Element:** Below the text, there's a circular diagram-like graphic. Within the circle is an upside down V shape with a small solid black square at the bottom apex.
+*   **Color/Tone:** The image is in grayscale, with varying shades of gray, black, and white.
+*   **Texture:** The background appears to have a grainy or textured quality.
+
+Overall, the image suggests an interface with a numerical or ordinal designation (TWO) coupled with an abstract or symbolic visual element. Without further context, it's hard to determine the precise function or purpose of this interface.
+----------------------------------------
+Summary for figure-53-39.jpg:
+The image shows a white number "3" displayed against a rounded rectangular background, which is black. The edges of the rectangle are slightly curved. The number is the central and primary element of the image.
+----------------------------------------
+Summary for figure-64-42.jpg:
+The image is a scatter plot that examines the relationship between the "use of coordination technique" (x-axis) and the "value of coordination technique" (y-axis). Both axes are scaled from approximately 2 to 6.
+
+The plot features various coordination techniques plotted according to their use and value. These techniques are categorized into five types, which are represented with different shapes as explained in the legend: formal/impersonal approaches (squares), formal/interpersonal procedures (circles), informal/interpersonal procedures (hollow circles), electronic communication (hollow squares), and interpersonal network (triangles). A line is drawn on the plot representing a general trend of increase of Value of coordination technique as Use of coordination technique increases.
+
+Specific techniques plotted include:
+
+*   **Formal/Impersonal Approaches:** Project control tools, source code/repository data, documents, project milestones, and error tracking reports.
+*   **Formal/Interpersonal Procedures:** Design reviews, requirements reviews, and code inspections.
+*   **Informal/Interpersonal Procedures:** Group meetings, and collocation.
+*   **Electronic Communication:** Status reviews and electronic mail.
+*   **Interpersonal Network:** Discussion with peers, and Project bulletins.
+
+The overall context is an analysis or comparison of different methods of coordination, assessed by their perceived value and how frequently they are used. The graph shows a general positive correlation between these two variables.
+----------------------------------------
+Summary for figure-68-45.jpg:
+The image shows a grid that maps common process framework activities against software engineering tasks. The activities listed across the top are: Customer communication, Planning, Risk analysis, and Engineering. The software engineering tasks down the side include: Product functions, Text input, Editing and formatting, Automatic copy edit, Page layout capability, Automatic indexing and TOC, File management, and Document production. The grid provides a framework for assessing the involvement of each process framework activity in the various software engineering tasks.
+----------------------------------------
+Summary for figure-81-53.jpg:
+The image depicts a diagram illustrating the relationship between "Process" and other key factors. At the center is a shaded triangle labeled "Process." Circling this triangle are five factors, distributed around the perimeter: "Customer characteristics", "Business conditions", "Technology", "Development environment", and "People." The placement suggests that all these factors influence or are related to the process at the core. The way the elements are arranged implies a cyclical or interconnected relationship.
+----------------------------------------
+Summary for figure-82-55.jpg:
+The image poses the question "What guidelines should be applied when we collect software metrics?". This suggests that the topic is about best practices or recommended procedures for gathering data related to software performance, quality, or other relevant aspects.
+
+----------------------------------------
+Summary for figure-83-57.jpg:
+The image is a pie chart illustrating the "Origin of errors/defects" in software development. The chart breaks down the error sources into categories such as "Specifications" (25.5%), "Logic" (20%), "User Interface" (11.7%), "Error Checking" (10.9%), "Data Handling" (10.5%), "Hardware Interface" (7.7%), "Standards" (6.9%), and "Software Interface" (6.0%). A legend indicates that lighter shades represent specification/requirements, medium shades represent design, and darker shades represent code. Specifications are the largest source of errors/defects, followed by logic, and then user interface.
+
+----------------------------------------

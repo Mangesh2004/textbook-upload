@@ -1,0 +1,17 @@
+langchain
+Pillow
+python-dotenv
+google-generativeai
+langchain-community
+pypdf
+langchain-google-genai
+pydantic 
+lxml 
+tiktoken
+pinecone
+aiohttp
+sentence-transformers
+pinecone-client
+tqdm
+nest_asyncio
+langchain-pinecone
